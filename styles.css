@@ -16,10 +16,10 @@ h1 {
   font-size: 3rem;
 <style>
 body {
-    font-family: "Lucida Console", "Courier New", monospace; font-size: 22px;
+    font-family: 'Fraunces', serif; font-size: 22px;
 }
 }
-body {  Font family: DM Sans font-size: 22px; background-color: #fff; color: #111; }
+body {   font-family: 'Fraunces', serif; font-size: 22px; background-color: #fff; color: #111; }
 header {   font-family: 'Fraunces', serif; font-size: 10px;  font-style: italic; display: flex; justify-content: space-between; align-items: center; padding: 1rem 2rem; border-bottom: 1px solid #ccc; }
 header h1 {  font-family: 'Lora'; font-size: 22px; font-weight: bold; font-size: 2rem; }
 nav ul { list-style: none; display: flex; gap: 2rem; }
@@ -31,6 +31,7 @@ nav a { text-decoration: none; color: #111; font-weight: 500; }
 .art-detail img { max-width: 45%; }
 .art-detail p { max-width: 45%; font-size: 1.1rem; }
 footer { text-align: center; padding: 2rem; border-top: 1px solid #ccc; margin-top: 2rem; }
+
 
 
 
